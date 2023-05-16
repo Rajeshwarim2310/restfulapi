@@ -11249,11 +11249,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Project\\restfulproject\\restfulproject\\restfulproject.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Project\\restfulapi\\restfulproject\\restfulproject.csproj",
       "projectName": "restfulproject",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Project\\restfulproject\\restfulproject\\restfulproject.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Project\\restfulapi\\restfulproject\\restfulproject.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Project\\restfulproject\\restfulproject\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Project\\restfulapi\\restfulproject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
